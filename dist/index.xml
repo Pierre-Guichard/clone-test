@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Page d&#39;accueil on Entrepreneurs d&#39;intérêt général</title>
+    <title>Page d&#39;accueil on Test Jamstack</title>
     <link>/</link>
-    <description>Recent content in Page d&#39;accueil on Entrepreneurs d&#39;intérêt général</description>
+    <description>Recent content in Page d&#39;accueil on Test Jamstack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 12 Oct 2022 12:05:59 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -4224,13 +4224,9 @@ Ces expériences m’ont permis et me permettent encore :
       
       <guid>/cgu/</guid>
       <description>Éditeur Ce site est édité par l&amp;rsquo;équipe Entrepreneurs d&amp;rsquo;intérêt général, programme d’innovation numérique des Services du Premier Ministre porté par Etalab, à la Direction interministérielle du numérique..
-DINUM
-20 avenue de Ségur
-75007 Paris
-Tel. accueil : 01.71.21.01.70
-SIRET : 12000101100010 (secrétariat général du gouvernement)
-SIREN : 120 001 011
-Directeur de publication Pour les sujets relevant de la DINUM (transformation numérique de l’État) : Nadi Bou Hanna, directeur interministériel du numérique.</description>
+Directeur de publication Pour les sujets relevant de la DINUM (transformation numérique de l’État) : Nadi Bou Hanna, directeur interministériel du numérique.
+Conception et gestion du site Ce site est conçu et développé par l&amp;rsquo;équipe du programme Entrepreneurs d&amp;rsquo;intérêt général.
+Code source du site Le code source du site est disponible sur Github</description>
     </item>
     
     <item>
